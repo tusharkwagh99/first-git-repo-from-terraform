@@ -1,2 +1,2 @@
 # first-git-repo-from-terraform
-My First Repo Created from Terraform Code :: Temp Changes
+My First Repo Created from Terraform Code.
